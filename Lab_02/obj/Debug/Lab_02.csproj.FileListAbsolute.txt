@@ -1,0 +1,8 @@
+D:\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+D:\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.SuggestedBindingRedirects.cache
+D:\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+D:\Lab_02\Lab_02\bin\Debug\Lab_02.exe.config
+D:\Lab_02\Lab_02\bin\Debug\Lab_02.exe
+D:\Lab_02\Lab_02\bin\Debug\Lab_02.pdb
+D:\Lab_02\Lab_02\obj\Debug\Lab_02.exe
+D:\Lab_02\Lab_02\obj\Debug\Lab_02.pdb
